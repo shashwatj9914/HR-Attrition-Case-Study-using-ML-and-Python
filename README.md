@@ -72,5 +72,24 @@ Here, we can see that most number of people quit their job after 4 years. We can
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/73714933/100618262-9a53b500-3341-11eb-8ab9-2e0c4661c500.png)
 
-![Screenshot (41)](https://user-images.githubusercontent.com/73714933/100618266-9b84e200-3341-11eb-892d-a1ca8f049072.png)
+## 4. Let's get to some further Data Analysis of the categorization and evaluation that we just performed.
 
+#### Analyzing Satisfaction Range:
+![Screenshot (34)](https://user-images.githubusercontent.com/73714933/100615050-0a137100-333d-11eb-9df5-16977aa62603.png)
+#### Report:
+Here, we can see that the most number of employees lie between the satisfaction range of 0.5 to 0.8.
+
+#### Analyzing Report of Last Evaluation:
+![Screenshot (35)](https://user-images.githubusercontent.com/73714933/100615051-0a137100-333d-11eb-96f9-d51ab5ee884d.png)
+#### Report:
+Here, we can see the number of employees failing deaprtment-wise. So, here we can see that most of the employees from sales department got less than 0.5 marks in evaluating.
+
+#### Analysis of satisfaction level with Salary Tag:
+![Screenshot (36)](https://user-images.githubusercontent.com/73714933/100615054-0aac0780-333d-11eb-8c4a-d094d6ba1363.png)
+#### Report:
+Here, we can see that in high salary tag, there is relatively less satisfaction_rating , that means high pay grade employees are relatively more satisfied.
+
+#### Deducing Relationship between Various Columns:
+![Screenshot (37)](https://user-images.githubusercontent.com/73714933/100615056-0aac0780-333d-11eb-97af-a1a1179037e1.png)
+#### Report:
+Here, we can see that the correlation of number of projects and average monthly hours is highest. Therefore, we can deduce that these two factors are highly co-related i.e. these two columns depend on each other. Here, correlation shows linear relation between left and satisfaction level.
