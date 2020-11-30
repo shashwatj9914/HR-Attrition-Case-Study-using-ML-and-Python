@@ -1,4 +1,4 @@
-# HR-Attrition-Case-Study-using-Python-and-ML
+# HR-Attrition-Case-Study-using-ML-and-Python
 ### In this project, I developed a Machine Learning model using Logistic Regression to predict if the a set of employees from a mega-set of 14K+ employees will quit the job or not. 
 ### I drove data over Turnover Propensity Index (TPI) to classify each employess as unlikely, less likely, more likely, or most likely to quit the job.
 ### Finally, I concluded top 3 factors responsible for employee retention using Confusion matrix and Decision tree algorithm.
@@ -93,3 +93,11 @@ Here, we can see that in high salary tag, there is relatively less satisfaction_
 ![Screenshot (37)](https://user-images.githubusercontent.com/73714933/100615056-0aac0780-333d-11eb-97af-a1a1179037e1.png)
 #### Report:
 Here, we can see that the correlation of number of projects and average monthly hours is highest. Therefore, we can deduce that these two factors are highly co-related i.e. these two columns depend on each other. Here, correlation shows linear relation between left and satisfaction level.
+
+#### Let us Dive into the analysis of people who are leaving the Job:
+![Screenshot (38)](https://user-images.githubusercontent.com/73714933/100615057-0b449e00-333d-11eb-9b77-96a1f61a045e.png)
+#### Report:
+Here, we can see that people who tend to leave the job tend to have low satisfaction rating.
+
+## 5. Finally, I built a Machine Learning Model which can predict if an employee would quit or not depending on the all the details.
+
