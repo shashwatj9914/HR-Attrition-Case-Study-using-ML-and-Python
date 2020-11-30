@@ -99,5 +99,8 @@ Here, we can see that the correlation of number of projects and average monthly 
 #### Report:
 Here, we can see that people who tend to leave the job tend to have low satisfaction rating.
 
-## 5. Finally, I built a Machine Learning Model which can predict if an employee would quit or not depending on the all the details.
+## 5. Finally, I built a Machine Learning Model using Logistic Regression which can predict if an employee would quit or not depending on the all the details.
+
+Here's a sample:
+![Screenshot (39)](https://user-images.githubusercontent.com/73714933/100620149-1818c000-3344-11eb-801a-14f4c52e4520.png)
 
