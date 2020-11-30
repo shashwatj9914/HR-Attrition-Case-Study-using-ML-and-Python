@@ -69,3 +69,8 @@ Here, we can see that initially, the satisfication average reduces continuously 
 Here, we can see that most number of people quit their job after 4 years. We can also see that the most unsatisfied workforce belongs to the group of 4 years experience. Therefore, company has to improve its policy and check on how they can ameliorate the work enviroment of people belonging to 4 years experience group.
 
 ## 3. Now, I did some Data Processing in which I categorized Satisfaction into labels and evaluated employees on last evaluation.
+
+![Screenshot (40)](https://user-images.githubusercontent.com/73714933/100618262-9a53b500-3341-11eb-8ab9-2e0c4661c500.png)
+
+![Screenshot (41)](https://user-images.githubusercontent.com/73714933/100618266-9b84e200-3341-11eb-892d-a1ca8f049072.png)
+
