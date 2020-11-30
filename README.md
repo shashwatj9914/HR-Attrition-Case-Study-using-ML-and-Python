@@ -68,9 +68,8 @@ Here, we can see that initially, the satisfication average reduces continuously 
 #### Report:
 Here, we can see that most number of people quit their job after 4 years. We can also see that the most unsatisfied workforce belongs to the group of 4 years experience. Therefore, company has to improve its policy and check on how they can ameliorate the work enviroment of people belonging to 4 years experience group.
 
-## 3. Now, I did some Data Processing in which I categorized Satisfaction into labels and evaluated employees on last evaluation.
+## 3. Now, I performed Data Processing in which I categorized Satisfaction into labels and evaluated employees on last evaluation.
 
-![Screenshot (40)](https://user-images.githubusercontent.com/73714933/100618262-9a53b500-3341-11eb-8ab9-2e0c4661c500.png)
 
 ## 4. Let's get to some further Data Analysis of the categorization and evaluation that we just performed.
 
@@ -101,6 +100,4 @@ Here, we can see that people who tend to leave the job tend to have low satisfac
 
 ## 5. Finally, I built a Machine Learning Model using Logistic Regression which can predict if an employee would quit or not depending on the all the details.
 
-Here's a sample:
-![Screenshot (39)](https://user-images.githubusercontent.com/73714933/100620149-1818c000-3344-11eb-801a-14f4c52e4520.png)
-
+The accuracy of the Logistic Regression model came out to be 79.3%, ie; the model is significantly accurate in predicting if an employee would quit or not. 
